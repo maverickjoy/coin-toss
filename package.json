@@ -1,6 +1,6 @@
 {
   "name": "tossacoin",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "To view the results of a coin toss as Head or Tails every time one flips it.",
   "main": "lib/index.js",
   "scripts": {
